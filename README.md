@@ -1,2 +1,8 @@
 # WheresMyModal
-An open source project that I worked on for the summer to understand DOM Manipulation
+[Read about XSS attacks here](https://owasp.org/www-community/attacks/xss/)
+
+When you're building something, know how to destroy it. 
+XSS- cross site scripting
+
+injection of malicious scripts
+
