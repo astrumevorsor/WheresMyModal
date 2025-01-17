@@ -4,5 +4,4 @@
 When you're building something, know how to destroy it. 
 XSS- cross site scripting
 
-injection of malicious scripts
 
