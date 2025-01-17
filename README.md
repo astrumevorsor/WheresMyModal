@@ -69,7 +69,7 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 If you have questions or suggestions, feel free to reach out:
 
-- [Your Email]
-- [Your GitHub Profile]
+- a3das@ucsd.edu
+- github.com/astrumevorsor
 
 ---
