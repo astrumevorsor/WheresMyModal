@@ -1,4 +1,4 @@
-# WheresMyModal
+# XSS attacks
 [Read about XSS attacks here](https://owasp.org/www-community/attacks/xss/)
 
 When you're building something, know how to destroy it. 
